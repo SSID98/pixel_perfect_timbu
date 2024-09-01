@@ -58,7 +58,7 @@ This will build the project and install it on your connected device or emulator.
 
 ## Screenshots
 
-1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e60f2436-4458-4ed3-9958-50d1156695fc">
+1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">
 
 2. Cart page:
 <img width= "186" alt="Cart pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
