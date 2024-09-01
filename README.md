@@ -1,4 +1,4 @@
-# timbu
+# Pixel Perfect Timbu
 
 Pixel Perfect Timbu is a modification of the timbu app that uses an entirely different UI created by a designer. The app still has similar functions which is that just displays products(items) gotten from the timbu website using the timbu API and allows you to add or remove any of the products to the checkout(cart) or save items to the wishlist. This time around products can be displayed in categories. The detail of the product can also be viewed and all these information still comes from the API.
 
@@ -33,7 +33,7 @@ The external dependencies needed are:
 
 2. Use the following command to clone the ProjectName repository:
 
-https://github.com/SSID98/timbu.git
+https://github.com/SSID98/pixel_perfect_timbu.git
 
 ### Configuration
 
