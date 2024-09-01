@@ -58,10 +58,9 @@ This will build the project and install it on your connected device or emulator.
 
 ## Screenshots
 
-1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
+1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/09736a80-a85a-4529-9195-da54c34f57d0">
 
-2. Checkout
-   page: ![Alt text](assets/images/checkout.jpg)
+2. Cart page: <img width= "186" alt="Cart pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
 
 3. Order Success
-   Page: ![Alt text](assets/images/order_successful.jpg)
+   Page: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">
