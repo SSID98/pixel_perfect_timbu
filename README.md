@@ -58,7 +58,7 @@ This will build the project and install it on your connected device or emulator.
 
 ## Screenshots
 
-1. Product Page: ![Alt text](assets/images/products.jpg)
+1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
 
 2. Checkout
    page: ![Alt text](assets/images/checkout.jpg)
