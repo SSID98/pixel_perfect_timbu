@@ -58,19 +58,20 @@ This will build the project and install it on your connected device or emulator.
 
 ## Screenshots
 
-1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/09736a80-a85a-4529-9195-da54c34f57d0">
+1. Product Pages: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e60f2436-4458-4ed3-9958-50d1156695fc">
 
-2. Cart page: <img width= "186" alt="Cart pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
+2. Cart page:
+<img width= "186" alt="Cart pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
 
-3. Order Success
+4. Order Success
    Page: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">
 
-4. Unknown Screen: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">
+5. Unknown Screen: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">
 
-5. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e60f2436-4458-4ed3-9958-50d1156695fc">
+6. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e60f2436-4458-4ed3-9958-50d1156695fc">
 
-6. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/0a6c1a3a-8e79-4e05-98d1-1f71f25ccc59">
+7. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/0a6c1a3a-8e79-4e05-98d1-1f71f25ccc59">
 
-7. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/192441ec-e82f-4a30-bb26-2c8124aff4bb">
+8. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/192441ec-e82f-4a30-bb26-2c8124aff4bb">
 
-8. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/6991f21a-3fe1-4cc9-9767-135f6c66350f">
+9. Unknown: <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/6991f21a-3fe1-4cc9-9767-135f6c66350f">
