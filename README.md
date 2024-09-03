@@ -11,7 +11,7 @@ Pixel Perfect Timbu is a modification of the timbu app that uses an entirely dif
 - Feature 5: Tapping the card of any of the products would take you to a screen with details about the products
 
 ## Download Link
-https://docs.google.com/uc?export=download&id=1ulTFCRWNBXdINMMOEwRO-b-lPdBzI9UQ
+https://docs.google.com/uc?export=download&id=1BfYe4xinL8PtoJBbGLIGW7FN3EOZOoZT
 
 
 ## Installation
