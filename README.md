@@ -39,7 +39,7 @@ https://github.com/SSID98/pixel_perfect_timbu.git
 
 1. Change your working directory to the cloned repository:
 
-cd Pixel Perfect Timbu
+   cd Pixel Perfect Timbu
 
 ### Build and Run
 
@@ -47,24 +47,28 @@ cd Pixel Perfect Timbu
 
 2. To build and run the project, use the following command:
 
-[build/run command]
+For Android:
+bash
+```Copy code
+flutter run 
+```
 
 This will build the project and install it on your connected device or emulator.
 
-## Screenshots
+# Screenshots
 
-# Product Screens:
+## Product Screens:
 
 <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">
 
-# Product details screens:
+## Product details screens:
 <img width= "186" alt="Product detail pages" src= "https://github.com/user-attachments/assets/0a6c1a3a-8e79-4e05-98d1-1f71f25ccc59">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/192441ec-e82f-4a30-bb26-2c8124aff4bb">
 
-# Cart screen:
+## Cart screen:
 <img width= "186" alt="Cart pages" src= "https://github.com/user-attachments/assets/3ee5b532-3e75-40ba-ab98-c0bb5a48de24">
 
-# Wishlist Screen:
+## Wishlist Screen:
 <img width= "186" alt="Wishlist page" src= "https://github.com/user-attachments/assets/6991f21a-3fe1-4cc9-9767-135f6c66350f">
 
-# Orders Screen:
+## Orders Screen:
 <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/09736a80-a85a-4529-9195-da54c34f57d0">
