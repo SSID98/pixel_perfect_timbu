@@ -58,7 +58,6 @@ This will build the project and install it on your connected device or emulator.
 # Screenshots
 
 ## Product Screens:
-
 <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/7675f0da-dbf3-4ebc-baca-e9fa4a5f915b">, <img width= "186" alt="Product pages" src= "https://github.com/user-attachments/assets/e6e3d83b-fd47-4c1c-bf7b-5e39a6d74a81">
 
 ## Product details screens:
